@@ -50,7 +50,8 @@ This dashboard is tailored for business analysts and sales managers who aim to:
 4. Refresh the data to view updated metrics and insights.
 
 ## Preview
-![Dashboard Preview](path/to/dashboard-preview-image.png)
+![Dashboard Preview](![Uploading Screenshot 2025-05-07 153950.png…]()
+)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
