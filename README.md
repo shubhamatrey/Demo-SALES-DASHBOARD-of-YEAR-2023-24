@@ -50,7 +50,7 @@ This dashboard is tailored for business analysts and sales managers who aim to:
 4. Refresh the data to view updated metrics and insights.
 
 ## Preview
-![Dashboard Preview] https://github.com/shubhamatrey/Demo-SALES-DASHBOARD-of-YEAR-2023-24/issues/1#issue-3045470559
-
+![Dashboard Preview] [https://github.com/shubhamatrey/Demo-SALES-DASHBOARD-of-YEAR-2023-24/issues/1#issue-3045470559
+](https://github.com/shubhamatrey/Demo-SALES-DASHBOARD-of-YEAR-2023-24/issues/2#issue-3045493514)
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
