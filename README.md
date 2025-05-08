@@ -1,5 +1,9 @@
 # Power BI Sales Dashboard Project
 
+![Screenshot 2025-05-08 115300](https://github.com/user-attachments/assets/07337b75-71dc-4b92-b96c-f2e750b7f6f9)
+
+![Screenshot 2025-05-08 115314](https://github.com/user-attachments/assets/55726040-bd87-4064-a9c2-b09f0626c5fe)
+
 This repository contains a Power BI project developed to analyze and visualize sales data for the fiscal year 2023-24. The dashboard provides comprehensive insights into key sales metrics, product performance, regional trends, and brand contributions, enabling data-driven decision-making.
 
 ## Features
@@ -29,6 +33,10 @@ This repository contains a Power BI project developed to analyze and visualize s
      - Samsung: 16.28%
      - Acer: 6.6%
      - Hynix: 8.11%
+     -
+
+     ![Screenshot 2025-05-07 145336](https://github.com/user-attachments/assets/b01a91a5-10a3-49f5-9bec-bcc48a5703d3)
+
 
 ### 5. **Supervisor Contributions**
    - Breakdown of sales performance by supervisors to evaluate team efficiency and individual contributions.
